@@ -32,7 +32,7 @@
 <!--tech stack icons-->
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,react,vite,tailwind,ts,nodejs,aws,git,github&perline=15&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,react,vite,tailwind,ts,nodejs,html,css,js,aws,git,github&perline=15&theme=dark" />
   </a>
 </p>
 
